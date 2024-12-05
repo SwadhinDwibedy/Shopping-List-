@@ -20,10 +20,6 @@ This **Shopping List App** allows users to create, manage, and track their shopp
 - **Android Studio**: IDE used for development.
 - **Gradle**: Dependency management and build automation.
 
-## Screenshots
-
-*Add a few screenshots of your app here to give users a preview of the UI.*
-
 ## Installation
 
 To run the project locally:
